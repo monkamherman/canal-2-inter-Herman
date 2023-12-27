@@ -1,0 +1,61 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400;1,500&family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
+</style>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap');
+</style>
+:root{
+    --colorprimary: #618264;
+    --colorsecondary: #443434;
+    --font-family: 'IBM Plex Sans', sans-serif;
+    --font-family: 'Open Sans', sans-serif;
+    --border-radius: 20px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    background-color: grey;
+}
+.premiere{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.img-1{
+    background: url(./images/téléchargement__1_-removebg-preview\ 1.png);
+    width: 103px;
+height: 69px;
+margin-top: 20px;
+margin-left: 45px;
+
+}
+a{
+    text-decoration: none;
+    text-transform: none;
+    color: black;
+    width: 647px;
+height: 35px;
+margin-top: 37px;
+margin-left: 91px;
+
+}
+button{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    width: 203px;
+height: 69px;
+    margin-top: 24px;
+    margin-left: 58px;
+    margin-right: 30px;
+    background-color: #618264;
+}
+.page{
+    display: flex;
+    flex-direction: column;
+}
