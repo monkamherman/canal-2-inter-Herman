@@ -17,7 +17,7 @@
     border: 0;
 }
 body{
-    background-color: grey;
+    /* background-color: grey; */
 }
 .premiere{
     display: flex;
@@ -54,8 +54,101 @@ height: 69px;
     margin-left: 58px;
     margin-right: 30px;
     background-color: #618264;
+    color: #fff;
 }
 .page{
     display: flex;
     flex-direction: column;
+}
+.deuxiemen{
+    display: flex;
+}
+.img-2{
+    background: url(./images/Francis-Ngannou-domine-Ciryl-Gane-au-sol-et-remporte-le-combat-par-decision-unanime\ 1.png);
+    background-size: cover;
+    width: 841.64px;
+height: 622px;
+top: 157px;
+left: 64px;
+border-radius: var(--border-radius);
+
+
+}
+input{
+    background-color: #618264;
+    width: 15px;
+    height: 142px;
+
+}
+.note{
+    margin-left: 20px;
+    margin-top: 500px;
+    background-color: rgba(0, 0, 0, 0.466);
+    display: flex;
+}
+h1{
+    margin-left: 10px;
+    font-size: var(--font-family);
+    font-family: IBM Plex Sans Hebrew;
+font-size: 40px;
+font-weight: 700;
+line-height: 52px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+}
+span{
+    margin-left: 10px;
+    font-family: IBM Plex Sans Hebrew;
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+margin-top: 20px;
+}
+.colum{
+    display: flex;
+    flex-direction: column;
+}
+.div-1{
+    display: flex;
+
+}
+.img3{
+    background: url(./images/annie-spratt-cVEOh_JJmEE-unsplash\ 1.png);
+    width: 235px;
+height: 150px;
+top: 220px;
+left: 970px;
+border-radius: 10px;
+
+}
+.input-2{
+    width: 13px;
+height: 50px;
+top: 151px;
+left: 970px;
+
+}
+h2{
+    width: 189px;
+height: 52px;
+top: 227px
+left: 1221px
+
+}
+.commentaire{
+    font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+width: 201px;
+height: 51px;
+margin-top: 25px;
+
+
 }
