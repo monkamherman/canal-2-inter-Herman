@@ -135,9 +135,12 @@ left: 970px;
 h2{
     width: 189px;
 height: 52px;
-top: 227px
-left: 1221px
+top: 227px;
+left: 1221px;
 
+}
+h6{
+    color: #618264;
 }
 .commentaire{
     font-family: Open Sans;
@@ -149,6 +152,71 @@ text-align: left;
 width: 201px;
 height: 51px;
 margin-top: 25px;
+}
+.img4{
+    background: url(./images/images\ \(5\)\ 1.png);
+    width: 235px;
+height: 150px;
+top: 424px;
+left: 970px;
+border-radius: 10px;
 
+}
+.img5{
+    background: url(./images/téléchargement\ \(3\)\ 1.png);
+    width: 235px;
+height: 150px;
+top: 424px;
+left: 970px;
+border-radius: 10px;
+
+}
+.troisieme{
+    display: flex;
+}
+.div-2{
+    display: flex;
+    flex-direction: column;
+}
+.img6{
+    background: url(./images/201606-cmr-11-lpr-2\ 1.png);
+    background-size: cover;
+    width: 343px;
+height: 353px;
+top: 913px;
+left: 64px;
+border-radius: 10px;
+
+}
+.img7{
+    background: url(./images/images\ \(6\)\ 1.png);
+    background-size: cover;
+    width: 343px;
+height: 353px;
+top: 913px;
+left: 64px;
+border-radius: 10px;
+
+}
+.img8{
+    background: url(./images/1200-L-can-norme-surprise-le-cameroun-battu-par-la-namibie\ 1.png);
+    background-size: cover;
+    width: 343px;
+height: 353px;
+top: 913px;
+left: 64px;
+border-radius: 10px;
+
+}
+.ciquime{
+    display: flex;
+}
+.img9{
+    background: url(./images/Rectangle\ 22.png);
+    width: 718px;
+height: 471px;
+top: 2539px
+left: 65px
+border-radius: 20px
 
 }
