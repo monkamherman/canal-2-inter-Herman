@@ -220,3 +220,102 @@ left: 65px
 border-radius: 20px
 
 }
+.notecanal{
+    width: 618px;
+height: 227px;
+top: 2573px;
+left: 827px;
+
+}
+.icon{
+    display: flex;
+}
+.inst{
+    background: url(./images/🦆\ icon\ _rounded\ instagram_.png);
+    background-size: cover;
+    width: 31.93px;
+height: 36.48px;
+top: 2937px
+left: 827px
+
+
+}
+.face{
+    background: url(./images/🦆\ icon\ _circle\ facebook_.png);
+    background-size: cover;
+    width: 31.93px;
+height: 36.48px;
+}
+.twit{
+    background: url(./images/🦆\ icon\ _twitterbird_.png);
+    background-size: cover;
+    width: 31.93px;
+height: 36.48px;
+
+}
+.in{
+    background: url(./images/🦆\ icon\ _rounded\ linkedin_.png);
+    background-size: cover;
+    width: 31.93px;
+height: 36.48px;
+
+}
+.sixieme{
+    display: flex;
+    justify-content: space-between;
+}
+.div-3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img10{
+    background: url(./images/min_nous_chez_vous1\ 1.png);
+    background-size: cover;
+    width: 320px;
+height: 197px;
+top: 3265px
+left: 84px
+
+}
+.img11{
+    background: url(./images/min_arene\ 1.png);
+    background-size: cover;
+    width: 320px;
+height: 197px;}
+.img12{
+    background: url(./images/min_comedie_presse\ 1.png);
+    background-size: cover;
+    width: 320px;
+height: 197px;}
+.septieme{
+    display: flex;
+}
+.img13{
+    background: url(./images/Rectangle\ 23.png);
+    background-size: cover;
+    width: 681px;
+height: 471px;
+top: 3776px
+left: 747px
+border-radius: 20px;
+
+}
+.huitieme{
+    display: flex;
+}
+.pub{
+    rotate() : transform : rotate(90deg); transform : rotate(-90deg);
+    
+}
+hr{
+    background-color: #618264;
+    width: 13px;
+height: 50px;
+top: 5010px
+left: 71px
+
+}
+.img14{
+    background: url(./images/Rectangle\ 28.png);
+}
