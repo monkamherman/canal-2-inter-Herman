@@ -59,6 +59,7 @@ height: 69px;
 }
 .deuxiemen{
     display: flex;
+    margin-top: 50px;
 }
 .img-2{
     background: url(./images/Francis-Ngannou-domine-Ciryl-Gane-au-sol-et-remporte-le-combat-par-decision-unanime\ 1.png);
@@ -352,40 +353,47 @@ border-radius: 20px;
 .huitieme{
     display: flex;
     margin-top: 50px;
+    margin-left: 20px;
+    
 }
 .pub{
     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
     margin-left: 30px;
-    rotate: 270deg;
+    align-items: center;
+    /* rotate: 270deg; */
 }
 .pub2{
-    margin-left: 50px;
     font-family: IBM Plex Sans Hebrew;
 font-size: 48px;
-font-weight: 600;
+font-weight: 600em;
 line-height: 62px;
-text-align: left;
 color: #618264;
 width: 444px;
 height: 70px;
-angle: 90 deg;
+rotate: -90deg;
+padding-left: 100px;
 
 }
 hr{
     background-color: #618264;
     width: 13px;
 height: 50px;
-rotate: 270deg;
+/* rotate: 270deg; */
 }
 .img14{
-    background: url(./images/Rectangle\ 28.png);
+    /* background: url(./images/Rectangle\ 28.png); */
     background-size: cover;
     width: 1378px;
 height: 579px;
+margin-right: 10px;
 }
 .neuvieme{
     display: flex;
     justify-content: space-around;
+    margin-top: 50px;
 }
 .img15{
     background: url(./images/jackson-david-BL_Q4zjduGU-unsplash\ 2.png);
@@ -396,6 +404,7 @@ border-radius: 10px;
 margin-left: 10px;
 }
 .dixieme{
+    margin-top: 100px;
     display: flex;
     flex-direction: column;
     align-items:center;
